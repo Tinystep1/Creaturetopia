@@ -24,4 +24,25 @@
   <p>I attended one of the game coding sessions to see if it would be helpful for me. I could see from the others work that I was no where near that level yet. However, I was introduced to <a href="https://www.codecademy.com/login">Code Academy</a> and <a href="https://www.freecodecamp.org">freeCodeCamp.com</a> where I could continue learning HTML and CSS, and also learn JavaScript and PHP.</p>
   </p>During the rest of the week I went on freeCodeCamp, and also back to w3Schools, and started to learn HTML, CSS, and JavaScript.</p>
   <h3>The Plan</h3>
+  <p>At my next meeting at 2Pi Software, I explained why I wanted to learn coding, and PHP programming specifically. I was told that it was a good skill to have also as it will open up more avenues of work for me. I could even get a job at 2Pi Software in the future, as PHP is the programming their systems use.</p>
+  <p>We then went in to talk more in depth about how I might create this game, and came up with a four step plan:</p>
+  <ol>
+    <li>I would continue to learn HTML, CSS, and JavaScript. I would also familiarise myself with the sites Github, Vcode, and JSFiddle.</li>
+    <li>Once I was competent in all these, I could create a very simplified version of the game. This would involve one animal only. There would be no login or saving. A person could play with that animal for that session only.</li>
+    <li>I would then start learning PHP. I would also learn what I could about servers, and databases, as I would need both for the finished game.</li>
+    <li>Finally I would set up a database and allow people to create an account, which will save their game. Then I would start adding more animals, and the other features the game would have over time as updates.</li>
+  </ol>
+  <p>I continued learning front end code on w3Schools, and freeCodeCamp, and also started it on Code Academy. I also watched a youtube video on HTML. I started to learn how to use JSFiddle, and during one of my meetings at 2Pi Software, I was told that I could use it to crete a mock-up of the homepage of my website. I was also shown how to see the code for a website, and told I can use the code of the virtual animal game that is still working that I am basing mine on for ideas.</p>
+  <h3>RET Course</h3>
+  <p>During the month of October 2Pi Software was running a course designed to get you IT job ready. It was a free course, so I decided to attend.</p>
+  <p>The first day we were taught how to use Github. I had already had some experince with this before, but I had not yet heard of Gitkraken, which we were to use in conjunction with it. We were told that we would use these to create a project of our choosing, which we would work on for the duration of the course. We could then use this to showcase our skills to a potential employer. We would also be able to meet with 2Pi Software once a week or once a fortnight after the course was over to continue working on our project. I chose to use my virtual aniaml game as my project.</p>
+  <p>The next lesson we looked at front end development, and used freeCodeCamp to teach ourselves HTML and CSS. I continued on with the course from where I was up to.</p>
+  <p>All the while I was adding to my websites homepage on JSFiddle, which we had also been taught the day beofre. Periodically I was commiting the changes to GitKraken, and pushing them to GitHub.</p>
+  <p>Another lesson we learnt about databases, and the SQL language they use. I knew this was one of the things I would need for my site, and so started studying SQL on the link to w3Schools that we were given during the lesson.</p>
+  <p>In other lessons we looked at unity and other forms of game design, 3D printing, and emotional intelligence.</p>
+  <p>We also had a lesson where we dowloaded AMPPS to put the code from our game in. We were taught a bit about how to use it to edit our projects. Unfortunately I was on a mac computer, and there hasn't been a Mac update for AMPPS in over a decade. As a result I had to dowload XAMPPS instead. It supports many of the same platforms and apps, but as everyone else was using a different program, I am behind in learning how to use mine.</p>
+  <p>In our first self-learning lesson, which is for us to work on our projects, and get help if we need it, I was well into working on some of my pages that connected to my homepage. It was suggeted to me that I find a color palatte online, as the colours I was using at the time were a bit glaring for some people.</p>
+  <p>I had finished my <a href="/.petinfo-dragon.html">petinfo-dragon</a> page and pushed it to GitHub. It was then suggested that I move the information of the species to JavaScript, and just have placeholder text in the HTML. Then I would be able to use the HTML and CSS as a layout for all my animal information pages for each of my species.</p>
+  <p>That day it was mentioned to the class that we could also use Code Academy and w3Schools to learn code for free.</p>
+  <p>Today we learnt about Wordpress.org, and how we can download it into AMPPS (or in my case XAMPPS), and use it to help structure our website.</p>
 </html>
