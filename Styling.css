@@ -15,22 +15,22 @@
 .green-background{
   background-color: #2FFB01;
 }
-#smallImage {
+#smallImage{
     width: 100px;
     border-color: orange;
     border-width: 5px;
     border-style: solid;
     border-radius: 50%;
   }
-  #animalIntro {
+  #animalIntro{
     background-color: #2FFB01;
   }
-  #animalInfo {
+  #animalInfo{
     background-color: #2FFB01;
   }
-  #button {
+  #button{
     text-align: center;
   }
-  #form {
+  #form{
     background-color: #2FFB01;
   }
