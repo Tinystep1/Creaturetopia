@@ -44,5 +44,7 @@
   <p>In our first self-learning lesson, which is for us to work on our projects, and get help if we need it, I was well into working on some of my pages that connected to my homepage. It was suggeted to me that I find a color palatte online, as the colours I was using at the time were a bit glaring for some people.</p>
   <p>I had finished my <a href="./petinfo-dragon.html">petinfo-dragon</a> page and pushed it to GitHub. It was then suggested that I move the information of the species to JavaScript, and just have placeholder text in the HTML. Then I would be able to use the HTML and CSS as a layout for all my animal information pages for each of my species.</p>
   <p>That day it was mentioned to the class that we could also use Code Academy and w3Schools to learn code for free.</p>
-  <p>Today we learnt about <a href="https://wordpress.org">Wordpress.org</a>, and how we can download it into AMPPS (or in my case XAMPPS), and use it to help structure our website.</p>
+  <p>In the lesson on the 17th we learnt about <a href="https://wordpress.org">Wordpress.org</a>, and how we can download it into AMPPS (or in my case XAMPPS), and use it to help structure our website.</p>
+  <p>The nest lesson was a self-learning lesson. I got some support to get all my JavaScipt information for'Dragon' displayig, which can now be seen on my site (link above in 'Learning Code' section).</p>
+  <p>I have also dowloaded Wordpress.org to XAMPP, and have been reading through the information on it. I don't know that it will be useful to my website yet.</p>
 </html>
