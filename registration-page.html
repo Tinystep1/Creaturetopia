@@ -55,33 +55,38 @@
     <p>
     User Name (Don't use your real name)
     </p>
-    <input type="text" placeholder="enter a name">
-    <p>
-    Password
-    </p>
-    <input type="text" placeholder="at least 8 characters long">
-    <p>
-    Date of Birth (if you are under 13 you will need your parents permission)
-    </p>
-    <input type="text" placeholder="DD/MM/YYYY">
-    <p>
-    Email
-    </p>
-    <input type="text" placeholder="enter a valid email address">
-    <p>
-    Parents email for under 13 year olds)
-    </p>
-    <input type="text" placeholder="enter a valid email address">
+    <form action="#">
+      <input type="text" placeholder="enter a name" required>
+      <p>
+      Password
+      </p>
+      <input type="text" placeholder="at least 8 characters long" required>
+      <p>
+      Date of Birth (if you are under 13 you will need your parents permission)
+      </p>
+      <input type="text" placeholder="DD/MM/YYYY" required>
+      <p>
+      Email
+      </p>
+      <input type="text" placeholder="enter a valid email address" required>
+      <p>
+      Parents email for under 13 year olds)
+      </p>
+      <input type="text" placeholder="enter a valid email address">
+      <p>
+      <label for="pp&tos"><input id="pp&tos" value="accepted" type="checkbox" checked name="accept-conditions">I have read and accept the Privacy Policy and Terms and Conditions</label>
+      </p>
   </section>
   </div>
-  <!--button to submit-->
-  <div>
-  <section id="button">
-    <a href="#"><button type="button">
-    Submit
-    </button></a>
-  </section>
-  </div>
+   <!--button to submit-->
+   <div>
+   <section id="button">
+      <a href="#"><button type="submit">
+      Submit
+      </button></a>
+    </form>
+   </section>
+   </div>
   <div>
   <footer id="legalities">
     <p>
