@@ -24,8 +24,8 @@ var cat = {
 
 
 var pets = {
-    dragon: dragon,
-    cat: cat,
+    "dragon": dragon,
+    "cat": cat,
 };
 
 
@@ -35,8 +35,8 @@ window.onload = function () {
     //on load only shows pet selection div
     //loop through pets array and create links for each pet
     var buffer = '';
-    for (var pet in this.pets) {
-        buffer += '<button onclick="loadpet("'+pet+'")">' + pets[pet].animal + '</button>';
+    for (var pet in pets) {
+        buffer += '<button onclick="loadpet(\''+pet+'\');">' + pets[pet].animal + '</button>';
     }
     document.getElementById("selectorList").innerHTML = buffer;
     // this.loadpet("dragon");
@@ -46,17 +46,19 @@ function loadpet(petName) {
     // pet has been selected
     //now hide pet selctor
     //and show pet info
-    var petSelection = document.getElementById("PetSection");
+    var petSelection = document.getElementById("petSelection");
+console.log(petName);
+
     petSelection.style.display = "none";
     var petinfocontainer = document.getElementById("petinfocontainer");
     petinfocontainer.style.display = "block";
     //Display information
-    document.getElementById("description").innerHTML = dragon.description;
-    document.getElementById("items").innerHTML = dragon.items;
-    document.getElementById("stats").innerHTML = dragon.stats;
-    document.getElementById("introImage").innerHTML = dragon.introImage;
-    document.getElementById("stock").innerHTML = dragon.stock;
-    document.getElementById("animal").innerHTML = dragon.animal;
+    document.getElementById("description").innerHTML = pets[petName].description;
+    document.getElementById("items").innerHTML = pets[petName].items;
+    document.getElementById("stats").innerHTML = pets[petName].stats;
+    document.getElementById("introImage").innerHTML = pets[petName].introImage;
+    document.getElementById("stock").innerHTML = pets[petName].stock;
+    document.getElementById("animal").innerHTML = pets[petName].animal;
 
 }
 
