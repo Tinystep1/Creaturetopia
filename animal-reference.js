@@ -6,4 +6,4 @@ var dragonSpecies1 = {
 "wings" : 0,
 "feathers" : ["Mane", "End of tail"],
 "colours" : ["green", "blue"],
-}
+};
