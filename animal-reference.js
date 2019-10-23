@@ -13,6 +13,7 @@ var dragonSpecies1 = {
       "blue"
     ],
 };
+//Class 4 species
 var dragonSpecies2 = {
   "species" : "Class 4",
   "legs" : 2,
@@ -24,6 +25,7 @@ var dragonSpecies2 = {
     "grey",
   ],
 }
+//Class 6 species
 var dragonSpecies3 = {
     "species" : "Class 6",
     "legs" : 4,
@@ -35,6 +37,7 @@ var dragonSpecies3 = {
         "black",
     ],
 }
+//Class 7 species
 var dragonSpecies4 = {
     "species" : "Class 8",
     "legs" : 4,
