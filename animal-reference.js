@@ -1,6 +1,6 @@
 //Dragons
 //Chinese species
-var species1 = {
+var dragonSpecies1 = {
 "species" : "Chinese",
 "legs" : 4,
 "wings" : 0,
