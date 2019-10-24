@@ -37,7 +37,7 @@ var dragonSpecies3 = {
         "black",
     ],
 }
-//Class 7 species
+//Class 8 species
 var dragonSpecies4 = {
     "species" : "Class 8",
     "legs" : 4,
