@@ -60,8 +60,7 @@
   <p>
     <b>Note:</b>
   Due to a mistake I made on my computer when creating the new repository (see 'RET Course' above), a new folder was created in this repository with all my files in it. This caused my GitHub Pages website to stop working. For when the most recent 
-  
-    <i>code</i>
+  <i>code</i>
   change was made in this repository see the folder 
     <a href="https://github.com/Tinystep1/Creaturetopia/tree/master/CT%20example">CT example</a>
    and click on the relevant peice of code. This does not include the README.md document (this document). The date in the copy in the main part of the repository for the last commit should be correct: 21st November 2019).</p>
