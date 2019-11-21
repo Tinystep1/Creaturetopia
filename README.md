@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-  <h1>Creaturetopia</h1>
+  <h1>
+    <a href="./index.html">Creaturetopia</a>
+  </h1>
 
   <h3>The Idea</h3>
   <p>Back in late 2010 I had been playing multiple virtual animal games for several years. I enjoyed many of them greatly and decided I wanted to create my own.</p>
