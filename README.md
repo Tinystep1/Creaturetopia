@@ -51,8 +51,18 @@
   <p>Because I have yet to add php and a database (that is some ditance away), we are looking at a work around for the animals. There is an error when I access it via my local host page that we are having toruble finding. JSFiddle, however, will tell us what it was looking for when it found the error. I am going to copy my HTML for pet info, CSS, and JavaScript into a blank fiddle to find and resolve the problem, before copying it back, and pushing to Github.</p>
   <p>I am still working through the HTML and HTML5 section of the Basic Web Design Certification on freeCodeCamp.com. As I do so, I am making changes to, and adding pages to my site. Today I turned the textboxes in my <a href="./registration-page.html">Registration Page</a> into a proper of, and made most of the textboxes 'required'. I also added a checkbox to say users have read and agree to the Privacy Policy and Terms and Conditions (pages yet to be created), and set it to be checked by default.</p>
   <p>I fixed the issue I was having with displaying the animal information (and the correct anmial information) on the <a href="./petinfo.html">Pet Info</a> page. I am planning to change the practice button "cat" to "Gryphon", and add some information for that species. For my Github project, these will be the only two species. I will add more as I continue to create the actual website.</p>
-  <p>I am working through some of the JavaScript lessons in freeCodeCamp. To practice my skills with objects, I will create an <a href="./animal-reference.js">animal and species JavaScript reference page</a>, that will not have links on my actual or GutHub site. Instead it will store useful data that I may use in the future.</p>
+  <p>I am working through some of the JavaScript lessons in freeCodeCamp. To practice my skills with objects, I will create an     <a href="./animal-reference.js">animal and species JavaScript reference page</a>, that will not have links on my actual or GutHub site. Instead it will store useful data that I may use in the future.</p>
   <p>It has been suggested that I include the information on the <a href="./animal-reference.js">animal and species reference page</a> I was creating previously in my <a href="./petinfo.html">pet info page</a>. I will have to add more information, and either add more HTML to my pet info page for it to go in (along with all the same I have in my other JavaScript for displayng the correct animl info), or create a seperate page for species with a link on the pet info page. This seems like a more interesting options, as I can find and add example pictures of each species if I can find them, or see if I can find someone who will make one for me when it comes to my actual game (I will still need to add something for displaying the correct javaScript if I make a new page).</p>
   <p>I have created the base HTML page for my <a href="./animal-reference.html">species list</a> for my animals. I have also added links to return to the main menu pages, being the <a href="./idex.html">site home page</a> and the player home page (which does not exist as of yet and won't in the Github version).</p>
-  <p>This has now been usurped and is continued in Learning php CT. That project will be code viewing only as it will include php.</p>
+  <p>This has now been usurped and is continued in Creatretopia 2. That project will be code viewing only as it will include php.</p>
+  <p>
+  </p>
+  <p>
+    <b>Note:</b>
+  Due to a mistake I made on my computer when creating the new repository (see 'RET Course' above), a new folder was created in this repository with all my files in it. This caused my GitHub Pages website to stop working. For when the most recent 
+  
+    <i>code</i>
+  change was made in this repository see the folder 
+    <a href="https://github.com/Tinystep1/Creaturetopia/tree/master/CT%20example">CT example</a>
+   and click on the relevant peice of code. This does not include the README.md document (this document). The date in the copy in the main part of the repository for the last commit should be correct: 21st November 2019).</p>
 </html>
