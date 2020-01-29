@@ -18,6 +18,13 @@ var dragon = {
     },
 };
 
+//Griffin info
+//Infomation variable
+var griffinon = {
+    animal: "Griffin",
+    introImage: '<img id="small image" src="http://meetyourmonster.de/lib/exe/fetch.php/monster/greif/griffin_psf_.png?w=200&tok=60446c" alt="black and white rearing griffin outline" />, 
+    description: 'A creature that has the head, wings and front legs of an eagle, and the body, hind legs and tail of a lion. ' + 'Some have crests or manes.'
+
 var cat = {
     animal: "Cat",
 };
@@ -25,7 +32,7 @@ var cat = {
 
 var pets = {
     "dragon": dragon,
-    "cat": cat,
+    "griffinn": griffinn,
 };
 
 
@@ -63,5 +70,4 @@ console.log(petName);
 }
 
 
-    //Gryphon info
-    //Infomation variable
+    
