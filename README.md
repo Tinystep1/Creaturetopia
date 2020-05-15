@@ -2,7 +2,7 @@
 <html>
 
   <h1>
-    <a href="./index.html">Creaturetopia</a>
+    <a href="https://tinystep1.github.io/Creaturetopia/">Creaturetopia</a>
   </h1>
 
   <h3>The Idea</h3>
