@@ -4,6 +4,9 @@
   <h1>
     <a href="https://tinystep1.github.io/Creaturetopia/">Creaturetopia</a>
   </h1>
+  
+  <h2>Notes</h3>
+  <p>This repository is continued in <a href="https://github.com/Tinystep1/Creatretopia-2">Creaturetopia 2</a>. It is the repositry hosting an <a href="https://tinystep1.github.io/Creatretopia-2/">example of the site</a>. It also has a link to the repository containing the PHP for the eventual site.
 
   <h3>The Idea</h3>
   <p>Back in late 2010 I had been playing multiple virtual animal games for several years. I enjoyed many of them greatly and decided I wanted to create my own.</p>
@@ -60,10 +63,4 @@
   <p>
   </p>
   <p>
-    <b>Note:</b>
-  Due to a mistake I made on my computer when creating the new repository (see 'RET Course' above), a new folder was created in this repository with all my files in it. This caused my GitHub Pages website to stop working. For when the most recent 
-  <i>code</i>
-  change was made in this repository see the folder 
-    <a href="https://github.com/Tinystep1/Creaturetopia/tree/master/CT%20example">CT example</a>
-   and click on the relevant peice of code. This does not include the README.md document (this document). The date in the copy in the main part of the repository for the last commit should be correct: 21st November 2019).</p>
 </html>
