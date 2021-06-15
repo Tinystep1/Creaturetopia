@@ -52,3 +52,18 @@ var dragonSpecies4 = {
         "green",
     ],
 }
+//Winged Titanoboa species
+var dragonSepecies5 = {
+  "species" : "Winged Titanoboa",
+  "legs" : 0,
+  "wings" : 2,
+  "feathers" : [
+    "Shoulder blades",
+    "End of tail",
+  ],
+  "colours" : [
+    "green",
+    "brown",
+    "yellow",
+  ],
+}
