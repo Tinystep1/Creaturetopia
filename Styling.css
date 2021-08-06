@@ -8,21 +8,8 @@
   text-align: center;
 }
 .thin-orange-border{
-  /*
-    Declare a SCSS function that takes a value to be scaled and ideal viewport width:
-  */
-  @function scaleValue(
-    $value,
-    $idealViewportWidth: 1400px,
-    $min: 840px,
-    $max: 1960px
-  ) {
-    @return calc(
-    #{$value} * (clamp(#{$min}, 100vw, #{$max}) / #{$idealViewportWidth})
-    );
-  }
   border-color: orange;
-  border-width: #{scaleValue(500)};
+  border-width: 5;
   border-style: solid;
 }
 .green-background{
