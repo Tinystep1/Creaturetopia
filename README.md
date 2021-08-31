@@ -6,7 +6,8 @@
   </h1>
   
   <h2>Notes</h3>
-  <p>This repository is continued in <a href="https://github.com/Tinystep1/Creatretopia-2">Creaturetopia 2</a>. It is the repositry hosting an <a href="https://tinystep1.github.io/Creatretopia-2/">example of the site</a>. It also has a link to the repository containing the PHP for the eventual site.
+  <p>This repository is continued in <a href="https://github.com/Tinystep1/Creatretopia-2">Creaturetopia 2</a>.It also has a link to the repository containing the PHP for the eventual site.</p>
+  <p>You can see an <a href="https://tinystep1.github.io/Creaturetopia/">example of what the eventual site will look</a> by clicking the link.</p> 
 
   <h3>The Idea</h3>
   <p>Back in late 2010 I had been playing multiple virtual animal games for several years. I enjoyed many of them greatly and decided I wanted to create my own.</p>
